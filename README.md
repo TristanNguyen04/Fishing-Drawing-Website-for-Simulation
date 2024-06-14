@@ -6,12 +6,12 @@ Turn on your terminal.
 ## Step 2: 
 Type on your terminal:
 
-### for python installed:
+### For python installed:
 ```sh
 python3 -m http.server 8000
 ```
 
-### for Node.js and npm installed:
+### For Node.js and npm installed:
 npm install -g http-server
 http-server . -p 8000
 
